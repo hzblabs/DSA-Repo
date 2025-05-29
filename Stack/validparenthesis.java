@@ -26,7 +26,8 @@ public class validparenthesis {
             if (ch == '(' || ch == '{' || ch == '[')  // This checks if the character is an opening bracket.
             {
                 stk.push(ch); // If it is, it pushes the character onto the stack.
-            } else  // This checks if the character is a closing bracket.
+            } 
+            else  // This checks if the character is a closing bracket.
             {
                 if (stk.empty())  // This checks if the stack is empty.
                 {
