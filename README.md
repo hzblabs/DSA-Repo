@@ -29,8 +29,7 @@ If you're also studying DSA:
 - Clone the repo and try solving problems yourself first.
 - Suggest improvements or alternate solutions via pull requests.
 
-🚀 Let's Connect
-If you're also preparing for interviews or love problem-solving, feel free to connect with me on [https://www.linkedin.com/in/hazeeb-a-84a559230/](https://www.linkedin.com/in/hazeeb-a-84a559230/) or drop a star!
+ drop a star!
 
 
 
