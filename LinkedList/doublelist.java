@@ -69,7 +69,7 @@ public class doublelist {
     public void print(){
         node current = head;
         while (current != null) {
-            System.out.println(current.data + "<->") ;
+            System.out.print(current.data + " <-> ") ;
             current = current.next;
         }
         System.out.println("null");
@@ -79,18 +79,19 @@ public class doublelist {
 
         if (head == null) return;
         node current = head;
-        while (current != null) { 
+        while (current.next != null) { 
             current = current.next;
         }
 
         while (current != null) { 
-            System.out.println(current.data + "<->");
+            System.out.print(current.data + " <-> ");
             current = current.prev;
         }
         System.out.println("null");
     }
-
-
-
 }
+
+
+
+ 
 
